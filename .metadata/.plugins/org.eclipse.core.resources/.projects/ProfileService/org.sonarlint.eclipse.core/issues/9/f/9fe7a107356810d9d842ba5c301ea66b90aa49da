@@ -1,0 +1,9 @@
+
+r	java:S107D"BConstructor has 11 parameters, which is greater than 7 authorized.(œº¡®ûÿÿÿÿH“RMAJORZ
+CODE_SMELL
+b
+java:S1135="2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH”RINFOZ
+CODE_SMELL
+g
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8Ö³µæ¢1H•RMINORZ
+CODE_SMELL

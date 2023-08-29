@@ -1,0 +1,40 @@
+
+v	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.( ÂÑ¦üÿÿÿÿHÌ	RMAJORZ
+CODE_SMELL
+‹
+java:S1488l"_Immediately return this expression instead of assigning it to the temporary variable "product".(ıñüHÍ	RMINORZ
+CODE_SMELL
+Z
+java:S14529"&Remove usage of generic wildcard type.( ÂÑ¦üÿÿÿÿHĞ	RCRITICALZ
+CODE_SMELL
+c
+java:S1135›"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH×	RINFOZ
+CODE_SMELL
+b
+java:S1135x"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÔ	RINFOZ
+CODE_SMELL
+x
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÂËÜÊÿÿÿÿÿHÕ	RCRITICALZVULNERABILITY
+q	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(ïÔœ¥HË	RMAJORZ
+CODE_SMELL
+d	java:S106B"9Replace this use of System.out or System.err by a logger.(ĞİÇ¥HÑ	RMAJORZ
+CODE_SMELL
+i	java:S106C"9Replace this use of System.out or System.err by a logger.(Ş „¯øÿÿÿÿHÒ	RMAJORZ
+CODE_SMELL
+c
+java:S1135“"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÖ	RINFOZ
+CODE_SMELL
+w
+java:S4684V"@Replace this persistent entity with a simple POJO or DTO object.(çŸĞÁùÿÿÿÿHÓ	RCRITICALZVULNERABILITY
+v
+java:S1128"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú8¿à¹‰£1HíRMINORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'com.product.app.model.Category'.(²ÛÜøÿÿÿÿ8¿à¹‰£1HïRMINORZ
+CODE_SMELL
+{
+java:S1128"CRemove this unused import 'com.product.app.service.ProductService'.(ÁâÔÎıÿÿÿÿ8¿à¹‰£1HñRMINORZ
+CODE_SMELL
+r
+java:S1128#":Remove this unused import 'ch.qos.logback.classic.Logger'.(™Ğğöøÿÿÿÿ8¿à¹‰£1HóRMINORZ
+CODE_SMELL

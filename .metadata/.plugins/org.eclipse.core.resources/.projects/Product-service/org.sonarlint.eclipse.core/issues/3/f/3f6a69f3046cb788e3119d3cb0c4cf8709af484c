@@ -1,0 +1,9 @@
+
+r
+java:S5845P"JChange the assertion arguments to not compare a primitive value with null.(‘°¼ŒHßRCRITICALZBUG
+I
+java:S5786"Remove this 'public' modifier.(«¨¯ðHÝRINFOZ
+CODE_SMELL
+`
+java:S2699D"-Add at least one assertion to this test case.(áùêÌùÿÿÿÿHÜRBLOCKERZ
+CODE_SMELL

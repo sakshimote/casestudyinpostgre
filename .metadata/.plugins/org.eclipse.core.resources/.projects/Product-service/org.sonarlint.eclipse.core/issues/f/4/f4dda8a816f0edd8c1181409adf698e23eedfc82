@@ -1,0 +1,10 @@
+
+j
+java:S1128	"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâ8À²‰‰£1HëRMINORZ
+CODE_SMELL
+b
+java:S1135$"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHÃRINFOZ
+CODE_SMELL
+j
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;8À²‰‰£1HéRMINORZ
+CODE_SMELL

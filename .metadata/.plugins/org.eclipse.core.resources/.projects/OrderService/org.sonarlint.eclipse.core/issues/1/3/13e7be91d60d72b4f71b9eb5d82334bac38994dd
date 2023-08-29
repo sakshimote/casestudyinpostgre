@@ -1,0 +1,8 @@
+
+a
+java:S2699í"-Add at least one assertion to this test case.(áùêÌùÿÿÿÿHRBLOCKERZ
+CODE_SMELL
+r
+java:S5845Z"JChange the assertion arguments to not compare a primitive value with null.(²É°µHŸRCRITICALZBUG
+s
+java:S5845‹"JChange the assertion arguments to not compare a primitive value with null.(´ö•H RCRITICALZBUG

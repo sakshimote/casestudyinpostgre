@@ -1,0 +1,17 @@
+
+]
+java:S1128"1Remove this unused import 'java.util.Properties'.(¬µ²HõRMINORZ
+CODE_SMELL
+Œ
+java:S1128"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(æèşŞøÿÿÿÿH÷RMINORZ
+CODE_SMELL
+‰
+java:S1128
+"XRemove this unused import 'org.springframework.cloud.netflix.eureka.EnableEurekaClient'.(´÷ÎÉüÿÿÿÿHùRMINORZ
+CODE_SMELL
+y
+java:S1128"MRemove this unused import 'org.springframework.mail.javamail.JavaMailSender'.(ÕÃ›HûRMINORZ
+CODE_SMELL
+}
+java:S1128"QRemove this unused import 'org.springframework.mail.javamail.JavaMailSenderImpl'.(†ÇÁ¤HıRMINORZ
+CODE_SMELL

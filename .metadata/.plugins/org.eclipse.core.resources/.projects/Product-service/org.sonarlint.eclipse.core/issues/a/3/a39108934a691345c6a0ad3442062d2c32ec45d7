@@ -1,0 +1,20 @@
+
+ˆ
+java:S3415Ÿ"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(³–ÏÔÿÿÿÿÿH­RMAJORZ
+CODE_SMELL
+x
+java:S5845‘"JChange the assertion arguments to not compare a primitive value with null.(Ú”Ö¸ÿÿÿÿÿH¤RCRITICALZBUG
+H
+java:S5786"Remove this 'public' modifier.(ÔÃÕSH¢RINFOZ
+CODE_SMELL
+ˆ
+java:S3415ƒ"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(ïñ½³ÿÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+`
+java:S2699S"-Add at least one assertion to this test case.(áùêÌùÿÿÿÿH¡RBLOCKERZ
+CODE_SMELL
+ˆ
+java:S3415‘"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(ÄÜİÿÿÿÿÿH©RMAJORZ
+CODE_SMELL
+o
+java:S5845½"?Change the assertion arguments to not compare dissimilar types.(üÉ„ú8ëĞÕ‰£1HÚRCRITICALZBUG

@@ -1,0 +1,10 @@
+
+|
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×«Ä©8Ã‰£1H‰	RMAJORZBUG
+ˆ
+java:S36556"^Call "productOptional.isPresent()" or "!productOptional.isEmpty()" before accessing the value.(²Ì”ÙıÿÿÿÿHåRMAJORZBUG
+b
+java:S1135|"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHæRINFOZ
+CODE_SMELL
+o
+java:S2259#"EA "NullPointerException" could be thrown; "profile" is nullable here.(¥ç¥°ûÿÿÿÿHáRMAJORZBUG

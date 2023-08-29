@@ -1,0 +1,22 @@
+
+b
+java:S11350"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿHß RINFOZ
+CODE_SMELL
+g	java:S125\"<This block of commented-out lines of code should be removed.(©‡Ç«Hæ RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ŽÂšóHÛ RMAJORZ
+CODE_SMELL
+l	java:S125C"<This block of commented-out lines of code should be removed.(Àë¶ÎþÿÿÿÿHà RMAJORZ
+CODE_SMELL
+l	java:S125*"<This block of commented-out lines of code should be removed.(®šÁþÿÿÿÿHÞ RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(¥’ÂŽHÜ RMAJORZ
+CODE_SMELL
+l	java:S125("<This block of commented-out lines of code should be removed.(‡ìÓ–úÿÿÿÿHÝ RMAJORZ
+CODE_SMELL
+m
+java:S1128"5Remove this unused import 'javax.persistence.Entity'.(úƒßýûÿÿÿÿ8ç¥ÈÕ£1H²"RMINORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'javax.persistence.Id'.(þ¹ÞÜ8ç¥ÈÕ£1H´"RMINORZ
+CODE_SMELL

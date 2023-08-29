@@ -1,0 +1,12 @@
+
+N
+java:S5786"Remove this 'public' modifier.(·†Å³þÿÿÿÿH–RINFOZ
+CODE_SMELL
+r
+java:S5845N"JChange the assertion arguments to not compare a primitive value with null.(ßîÐäH˜RCRITICALZBUG
+‚
+java:S3415q"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(¯£ªÌH™RMAJORZ
+CODE_SMELL
+`
+java:S26999"-Add at least one assertion to this test case.(áùêÌùÿÿÿÿH•RBLOCKERZ
+CODE_SMELL

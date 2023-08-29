@@ -1,0 +1,21 @@
+
+~	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÎÐÃùÿÿÿÿHúRMINORZ
+CODE_SMELL
+v	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.( ÂÑ¦üÿÿÿÿHöRMAJORZ
+CODE_SMELL
+Z
+java:S14526"&Remove usage of generic wildcard type.( ÂÑ¦üÿÿÿÿH÷RCRITICALZ
+CODE_SMELL
+~	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò²ûéúÿÿÿÿHûRMINORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(Þ „¯øÿÿÿÿHùRMAJORZ
+CODE_SMELL
+q	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(ïÔœ¥HõRMAJORZ
+CODE_SMELL
+d	java:S106?"9Replace this use of System.out or System.err by a logger.(ÐÝÇ¥HøRMAJORZ
+CODE_SMELL
+y	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê½áèHüRMINORZ
+CODE_SMELL
+_
+java:S1128",Remove this unused import 'javax.ws.rs.PUT'.(¦Ö±–8Õ“å£1H—RMINORZ
+CODE_SMELL

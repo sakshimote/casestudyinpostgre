@@ -1,0 +1,12 @@
+
+r
+java:S5845X"JChange the assertion arguments to not compare a primitive value with null.(·“ù‡H›RCRITICALZBUG
+r
+java:S5845j"JChange the assertion arguments to not compare a primitive value with null.(‘¤öHRCRITICALZBUG
+w
+java:S5845R"JChange the assertion arguments to not compare a primitive value with null.(ä‡Ë©şÿÿÿÿHšRCRITICALZBUG
+`
+java:S2699D"-Add at least one assertion to this test case.(áùêÌùÿÿÿÿH™RBLOCKERZ
+CODE_SMELL
+r
+java:S5845a"JChange the assertion arguments to not compare a primitive value with null.(Ò¾–HœRCRITICALZBUG

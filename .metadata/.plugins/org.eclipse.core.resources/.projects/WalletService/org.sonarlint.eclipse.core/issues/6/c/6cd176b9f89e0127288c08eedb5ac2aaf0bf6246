@@ -1,0 +1,34 @@
+
+|
+java:S11929"HDefine a constant instead of duplicating this literal "DEPOSIT" 5 times.(ç†ŒüÿÿÿÿHø"RCRITICALZ
+CODE_SMELL
+„
+java:S1192ƒ"TDefine a constant instead of duplicating this literal " at date and time  " 3 times.(²üŞˆHş"RCRITICALZ
+CODE_SMELL
+”
+java:S1192D"eDefine a constant instead of duplicating this literal "  Now, Current balance in wallet is " 4 times.(ğü²âH‚#RCRITICALZ
+CODE_SMELL
+~
+java:S1192¢"IDefine a constant instead of duplicating this literal "WITHDRAW" 3 times.(Ü‘³ªûÿÿÿÿH‡#RCRITICALZ
+CODE_SMELL
+„
+java:S1192C"UDefine a constant instead of duplicating this literal " By transaction type" 5 times.(¿µª¹H‹#RCRITICALZ
+CODE_SMELL
+o
+java:S2259T"EA "NullPointerException" could be thrown; "profile" is nullable here.(üó£İøÿÿÿÿH‘#RMAJORZBUG
+o
+java:S2259A"EA "NullPointerException" could be thrown; "profile" is nullable here.(üó£İøÿÿÿÿH•#RMAJORZBUG
+w
+java:S3655™"LCall "wallet.isPresent()" or "!wallet.isEmpty()" before accessing the value.(Û£ıÖûÿÿÿÿH™#RMAJORZBUG
+w
+java:S3655Õ"LCall "wallet.isPresent()" or "!wallet.isEmpty()" before accessing the value.(Û£ıÖûÿÿÿÿHš#RMAJORZBUG
+v
+java:S3655n"LCall "wallet.isPresent()" or "!wallet.isEmpty()" before accessing the value.(Û£ıÖûÿÿÿÿH›#RMAJORZBUG
+z
+java:S3655h"PCall "ewallets.isPresent()" or "!ewallets.isEmpty()" before accessing the value.(ûµïñûÿÿÿÿHœ#RMAJORZBUG
+l	java:S125y"<This block of commented-out lines of code should be removed.(íöÊıÿÿÿÿH#RMAJORZ
+CODE_SMELL
+m	java:S125¦"<This block of commented-out lines of code should be removed.(íöÊıÿÿÿÿH#RMAJORZ
+CODE_SMELL
+m	java:S125¶"<This block of commented-out lines of code should be removed.(íöÊıÿÿÿÿHŸ#RMAJORZ
+CODE_SMELL
